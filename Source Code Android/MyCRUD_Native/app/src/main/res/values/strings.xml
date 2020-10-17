@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyCRUD_Native</string>
+    <string name="nama_pegawai">Nama Pegawai</string>
+    <string name="posisi">Posisi</string>
+    <string name="gajih">Gajih</string>
+    <string name="tambah_pegawai">Tambah Pegawai</string>
+    <string name="daftar_pegawai">Daftar Pegawai</string>
+    <string name="data_jabatan">Data Jabatan</string>
+    <string name="id_pegawai">ID Pegawai</string>
+    <string name="update_pegawai">Update Pegawai</string>
+    <string name="hapus_pegawai">Hapus Pegawai</string>
+    <string name="tambah_posisi">Tambah Posisi</string>
+    <string name="daftar_posisi">Daftar Posisi</string>
+    <string name="update_posisi">Update Posisi</string>
+    <string name="hapus_posisi">Hapus Posisi</string>
+    <string name="id_posisi">ID Posisi</string>
+    <string name="data_posisi">Data Posisi</string>
+    <string name="pemasukan_gaji_khusus">Pemasukan gaji khusus</string>
+</resources>
