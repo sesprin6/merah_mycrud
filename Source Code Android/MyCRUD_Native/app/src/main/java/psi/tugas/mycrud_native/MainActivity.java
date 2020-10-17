@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         final String name = editText_Name.getText().toString().trim();
         final String salary = editText_Salary.getText().toString().trim();
 
-        final String position = spinner_Position.getSelectedItem().toString();
+        final String position = ((Obj_Position)spinner_Position.getSelectedItem()).getId();
 
         if (TextUtils.isEmpty(name) || TextUtils.isEmpty(position) || TextUtils.isEmpty(salary))
         {

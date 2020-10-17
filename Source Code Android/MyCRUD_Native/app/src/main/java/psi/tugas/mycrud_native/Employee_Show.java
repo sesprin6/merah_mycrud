@@ -215,7 +215,7 @@ public class Employee_Show extends AppCompatActivity implements View.OnClickList
     {
         final String id = editText_Id.getText().toString();
         final String name = editText_Name.getText().toString();
-        final String position = spinner_Position.getSelectedItem().toString();
+        final String position = ((Obj_Position)spinner_Position.getSelectedItem()).getId();
         final String salary = editText_Salary.getText().toString();
 
         if (TextUtils.isEmpty(name) || TextUtils.isEmpty(position) || TextUtils.isEmpty(salary))

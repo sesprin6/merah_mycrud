@@ -22,4 +22,4 @@
 	//Database Keys
 	const TBL_ID			= 'id_posisi';
 	const TBL_POSITION		= 'posisi';
-	const TBL_SALARY		= 'gajih';
+	const TBL_SALARY		= 'gaji';
